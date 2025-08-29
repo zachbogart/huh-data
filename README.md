@@ -1,5 +1,7 @@
 # huh-data
 
+*2025-08-29: Archived*
+
 ![huh-banner](https://user-images.githubusercontent.com/31786233/235287003-e56c4346-196d-427a-b11f-87757dbe5821.png)
 
 Managing work for the [@huh Observable Team](https://observablehq.com/@huh?tab=profile) (a public exploration of Observable). Using this repo for:
